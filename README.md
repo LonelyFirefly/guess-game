@@ -1,3 +1,8 @@
+# Vercel Deployment, check it out:
+- https://guess-game-sepia.vercel.app/
+- https://guess-game-lonelyfirefly.vercel.app/
+- https://guess-game-git-main-lonelyfirefly.vercel.app/
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
